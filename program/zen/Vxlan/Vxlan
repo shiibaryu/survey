@@ -1,0 +1,15 @@
+namespace ZenLib.Tests.Network
+{
+    using System;
+    using ZenLib;
+    using static ZenLib.Language;
+
+    //simple vxlan header class
+    public class sHeader
+    {
+       
+
+    }
+
+    
+}
